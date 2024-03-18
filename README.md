@@ -19,3 +19,6 @@ After you download it you need :
 2) npm run start:backend
 3) Open a new terminal without closing the other on npm run dev
 4) HAVE FUN
+
+
+![Screenshot 2024-03-18 064932](https://github.com/Sereth1/Quiz/assets/129552184/10eb063b-9347-47ac-9a2b-85c8f393a5e3)
