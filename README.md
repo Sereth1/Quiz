@@ -22,3 +22,4 @@ After you download it you need :
 
 
 ![Screenshot 2024-03-18 064932](https://github.com/Sereth1/Quiz/assets/129552184/10eb063b-9347-47ac-9a2b-85c8f393a5e3)
+![Screenshot 2024-03-18 065554](https://github.com/Sereth1/Quiz/assets/129552184/2c172969-3652-4be5-8ee5-ae75e874e79d)
