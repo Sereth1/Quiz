@@ -16,6 +16,6 @@ Run It Yourself
 Run It Yourself
 After you download it you need :
 1) Open terminal and use npm i
-2) npm start:backend
+2) npm run start:backend
 3) Open a new terminal without closing the other on npm run dev
 4) HAVE FUN
