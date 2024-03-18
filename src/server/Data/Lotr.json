@@ -1,0 +1,104 @@
+{
+  "questions": [
+    {
+      "question": "Who created the One Ring?",
+      "options": ["Sauron", "Gandalf", "Saruman", "Elrond"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Which of these characters is NOT a member of the Fellowship of the Ring?",
+      "options": ["Legolas", "Gimli", "Boromir", "Gollum"],
+      "correctOption": 3,
+      "points": 5
+    },
+    {
+      "question": "What is the Elvish word for friend, used to open the doors of Durin?",
+      "options": ["Mellon", "Elendil", "Amin", "Naur"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "In which battle was King Théoden of Rohan slain?",
+      "options": [
+        "Battle of Helm's Deep",
+        "Battle of the Pelennor Fields",
+        "Battle of the Black Gate",
+        "Skirmish at Weathertop"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What type of creature is Shelob?",
+      "options": ["Spider", "Dragon", "Orc", "Wraith"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Who is the steward of Gondor before Aragorn becomes king?",
+      "options": ["Denethor", "Boromir", "Faramir", "Ecthelion"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the name of the forest where the Ents live?",
+      "options": ["Fangorn Forest", "Mirkwood", "Lothlórien", "The Old Forest"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who wields the sword Andúril?",
+      "options": ["Aragorn", "Legolas", "Gimli", "Boromir"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "What gift does Galadriel give to Frodo?",
+      "options": ["A sword", "A cloak", "A light", "A brooch"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the name of Gandalf's horse?",
+      "options": ["Shadowfax", "Bill", "Rochallor", "Asfaloth"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which character becomes the Lord of the Rings after Sauron's defeat?",
+      "options": ["Aragorn", "Frodo", "Sam", "Gandalf"],
+      "correctOption": 0,
+      "points": 15
+    },
+    {
+      "question": "What realm does Legolas belong to?",
+      "options": ["Rivendell", "The Woodland Realm", "Lothlórien", "Gondor"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who is the father of Gimli?",
+      "options": ["Glóin", "Gloin", "Gollum", "Gandalf"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Which of these locations is known as the city of the Kings?",
+      "options": ["Minas Tirith", "Edoras", "Osgiliath", "Rivendell"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the name of the volcano where the One Ring is destroyed?",
+      "options": [
+        "Mount Doom",
+        "Mount Gundabad",
+        "The Lonely Mountain",
+        "Caradhras"
+      ],
+      "correctOption": 0,
+      "points": 5
+    }
+  ]
+}

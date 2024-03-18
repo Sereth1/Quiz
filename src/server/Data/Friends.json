@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "question": "What is the name of Ross's first wife?",
+      "options": ["Emily", "Carol", "Susan", "Rachel"],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "Which character famously said, 'We were on a break'?",
+      "options": ["Ross", "Chandler", "Joey", "Monica"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "What is the name of Joey's stuffed penguin?",
+      "options": ["Hugsy", "Waddle", "Pingu", "Flipper"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What was Monica's biggest pet peeve?",
+      "options": [
+        "Animals dressed as humans",
+        "Shoes on the furniture",
+        "Not using coasters",
+        "Loud chewing"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Who pees on Monica's jellyfish sting?",
+      "options": ["Chandler", "Ross", "Joey", "Herself"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What game show does Joey appear on?",
+      "options": ["Jeopardy", "Wheel of Fortune", "Bamboozled", "Family Feud"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is Chandler's middle name?",
+      "options": ["Muriel", "Jason", "Kim", "Zachary"],
+      "correctOption": 0,
+      "points": 15
+    },
+    {
+      "question": "What does Ross name his white-headed capuchin monkey?",
+      "options": ["Marcel", "Mojo", "Mickey", "Max"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Which character has a twin?",
+      "options": ["Phoebe", "Rachel", "Joey", "Monica"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "What is the profession of Rachel's Italian boyfriend, Paolo?",
+      "options": ["Chef", "Photographer", "Translator", "Personal Trainer"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What is the name of the coffee shop where the friends frequently hang out?",
+      "options": ["Central Perk", "Coffee Time", "Bean Scene", "Brew Buddies"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Which friend finds out about Monica and Chandler's relationship first?",
+      "options": ["Rachel", "Ross", "Joey", "Phoebe"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What does Phoebe legally change her name to?",
+      "options": [
+        "Princess Consuela Bananahammock",
+        "Phoebe Buffay-Hannigan",
+        "Regina Phalange",
+        "Phoebe Neeby"
+      ],
+      "correctOption": 0,
+      "points": 15
+    },
+    {
+      "question": "Who got stuck in a pair of leather pants?",
+      "options": ["Ross", "Joey", "Chandler", "Monica"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the title of the Friends theme song?",
+      "options": [
+        "I'll Be There for You",
+        "You've Got a Friend",
+        "Friends Forever",
+        "The One with the Theme Song"
+      ],
+      "correctOption": 0,
+      "points": 5
+    }
+  ]
+}

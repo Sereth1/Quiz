@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "What is the name of the world where World of Warcraft takes place?",
+      "options": ["Azeroth", "Draenor", "Outland", "Argus"],
+      "correctOption": 0,
+      "points": 5,
+      "img": ""
+    },
+    {
+      "question": "Which class can use the 'Rebirth' ability to resurrect fallen allies during combat?",
+      "options": ["Priest", "Druid", "Paladin", "Shaman"],
+      "correctOption": 1,
+      "points": 10,
+      "img": ""
+    },
+    {
+      "question": "What faction is the Warchief Sylvanas Windrunner associated with?",
+      "options": ["Alliance", "Horde", "Neutral", "Defias Brotherhood"],
+      "correctOption": 1,
+      "points": 10,
+      "img": ""
+    },
+    {
+      "question": "Which expansion introduced the Demon Hunter class?",
+      "options": [
+        "Warlords of Draenor",
+        "Legion",
+        "Battle for Azeroth",
+        "Shadowlands"
+      ],
+      "correctOption": 1,
+      "points": 10,
+      "img": ""
+    },
+    {
+      "question": "What is the maximum level players could reach in the original World of Warcraft game, before any expansions?",
+      "options": ["60", "70", "80", "100"],
+      "correctOption": 0,
+      "points": 5,
+      "img": ""
+    },
+    {
+      "question": "Which raid boss is infamously known as 'The Firelord'?",
+      "options": ["Ragnaros", "Nefarian", "Onyxia", "Illidan Stormrage"],
+      "correctOption": 0,
+      "points": 10,
+      "img": ""
+    },
+    {
+      "question": "What is the name of the legendary sword that belonged to Prince Arthas?",
+      "options": ["Frostmourne", "Ashbringer", "Doomhammer", "Shadowmourne"],
+      "correctOption": 0,
+      "points": 15,
+      "img": ""
+    },
+    {
+      "question": "Which playable race belongs to the Horde and can transform into wolves?",
+      "options": ["Tauren", "Orcs", "Trolls", "Worgen"],
+      "correctOption": 3,
+      "points": 10,
+      "img": ""
+    },
+    {
+      "question": "In which expansion were Mythic+ dungeons introduced?",
+      "options": [
+        "Mists of Pandaria",
+        "Warlords of Draenor",
+        "Legion",
+        "Battle for Azeroth"
+      ],
+      "correctOption": 2,
+      "points": 10,
+      "img": ""
+    },
+    {
+      "question": "Who was the final boss in the 'Battle of Azeroth' expansion?",
+      "options": ["N'Zoth", "Sylvanas Windrunner", "Queen Azshara", "Gul'dan"],
+      "correctOption": 0,
+      "points": 15,
+      "img": ""
+    },
+    {
+      "question": "Which class is capable of casting the 'Bloodlust' or 'Heroism' spell?",
+      "options": ["Mage", "Warrior", "Shaman", "Hunter"],
+      "correctOption": 2,
+      "points": 10,
+      "img": ""
+    },
+    {
+      "question": "What area serves as the main hub for players in the Shadowlands expansion?",
+      "options": ["Oribos", "Dalaran", "Shattrath City", "Stormwind"],
+      "correctOption": 0,
+      "points": 10,
+      "img": ""
+    },
+    {
+      "question": "Which of the following is NOT a dragon aspect?",
+      "options": ["Deathwing", "Malygos", "Ysera", "Khadgar"],
+      "correctOption": 3,
+      "points": 10,
+      "img": ""
+    },
+    {
+      "question": "What is the name of the guild that achieved the world first kill of Ragnaros in Molten Core?",
+      "options": ["Method", "Apotheosis", "Ascent", "Blood Legion"],
+      "correctOption": 2,
+      "points": 20,
+      "img": ""
+    },
+    {
+      "question": "Which character becomes the Lich King after Arthas is defeated?",
+      "options": [
+        "Bolvar Fordragon",
+        "Darion Mograine",
+        "Tirion Fordring",
+        "Sylvanas Windrunner"
+      ],
+      "correctOption": 0,
+      "points": 15,
+      "img": ""
+    }
+  ]
+}

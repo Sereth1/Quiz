@@ -1,0 +1,109 @@
+{
+  "questions": [
+    {
+      "question": "Which Pokémon is the first in the National Pokédex?",
+      "options": ["Bulbasaur", "Charmander", "Squirtle", "Pikachu"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What type is Pikachu?",
+      "options": ["Electric", "Fire", "Water", "Grass"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Which item evolves Eevee into Vaporeon?",
+      "options": ["Thunder Stone", "Water Stone", "Fire Stone", "Leaf Stone"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the signature move of Mewtwo?",
+      "options": ["Psychic", "Psybeam", "Psywave", "Psystrike"],
+      "correctOption": 3,
+      "points": 15
+    },
+    {
+      "question": "Which Pokémon can Mega Evolve into Mega Charizard X?",
+      "options": ["Charizard", "Charmander", "Charmeleon", "Charcoal"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What type of Pokémon is Gym Leader Brock known for?",
+      "options": ["Rock", "Water", "Electric", "Grass"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Which Pokémon is known as the 'Legendary Bird'?",
+      "options": ["Moltres", "Zapdos", "Articuno", "All of the above"],
+      "correctOption": 3,
+      "points": 15
+    },
+    {
+      "question": "What ability does Snorlax have that allows it to block the path of other trainers?",
+      "options": ["Sleep", "Block", "Rest", "Snore"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who is the creator of the Pokémon series?",
+      "options": [
+        "Shigeru Miyamoto",
+        "Satoshi Tajiri",
+        "Ken Sugimori",
+        "Junichi Masuda"
+      ],
+      "correctOption": 1,
+      "points": 20
+    },
+    {
+      "question": "In Pokémon games, what is TM short for?",
+      "options": [
+        "Technical Machine",
+        "Training Module",
+        "Technical Move",
+        "Transfer Module"
+      ],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Which Pokémon does not evolve from or into any other Pokémon?",
+      "options": ["Tauros", "Pikachu", "Jigglypuff", "Magikarp"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "What is the primary type of the Pokémon Gyarados?",
+      "options": ["Water", "Dragon", "Flying", "Dark"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which region is the setting of Pokémon Gold and Silver?",
+      "options": ["Kanto", "Johto", "Hoenn", "Sinnoh"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What does the item 'Rare Candy' do in the Pokémon series?",
+      "options": [
+        "Heals Pokémon",
+        "Increases friendship",
+        "Raises a Pokémon's level by one",
+        "Evolves certain Pokémon"
+      ],
+      "correctOption": 2,
+      "points": 5
+    },
+    {
+      "question": "What is the weakness of Psychic type Pokémon?",
+      "options": ["Bug", "Ghost", "Dark", "All of the above"],
+      "correctOption": 3,
+      "points": 15
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "questions": [
+    {
+      "question": "Who is the author of the Harry Potter series?",
+      "options": ["J.K. Rowling", "Stephen King", "Tolkien", "C.S. Lewis"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "What house at Hogwarts does Harry belong to?",
+      "options": ["Gryffindor", "Slytherin", "Ravenclaw", "Hufflepuff"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "What position does Harry play on his Quidditch team?",
+      "options": ["Chaser", "Beater", "Keeper", "Seeker"],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What is the name of the spell used for creating light?",
+      "options": ["Lumos", "Nox", "Accio", "Alohomora"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Who is NOT a member of the Order of the Phoenix?",
+      "options": [
+        "Severus Snape",
+        "Draco Malfoy",
+        "Sirius Black",
+        "Remus Lupin"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What does the Imperius Curse do?",
+      "options": ["Controls", "Tortures", "Kills", "Protects"],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which character is a half-giant?",
+      "options": ["Hagrid", "Dumbledore", "Snape", "Voldemort"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "What magical creature is Aragog?",
+      "options": ["A centaur", "A basilisk", "An Acromantula", "A dragon"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the core material of Harry's wand?",
+      "options": [
+        "Dragon heartstring",
+        "Phoenix feather",
+        "Unicorn hair",
+        "Thestral tail hair"
+      ],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "Who teaches Transfiguration at Hogwarts?",
+      "options": ["McGonagall", "Flitwick", "Sprout", "Snape"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Which potion is known as 'Liquid Luck'?",
+      "options": [
+        "Polyjuice Potion",
+        "Amortentia",
+        "Felix Felicis",
+        "Veritaserum"
+      ],
+      "correctOption": 2,
+      "points": 15
+    },
+    {
+      "question": "What is the name of the wizarding prison?",
+      "options": ["Nurmengard", "Azkaban", "Gringotts", "Hogwarts"],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "Who is the Half-Blood Prince?",
+      "options": [
+        "Harry Potter",
+        "Sirius Black",
+        "Tom Riddle",
+        "Severus Snape"
+      ],
+      "correctOption": 3,
+      "points": 10
+    },
+    {
+      "question": "What item is used to destroy Horcruxes?",
+      "options": [
+        "Sword of Gryffindor",
+        "A wand",
+        "A spell",
+        "All of the above"
+      ],
+      "correctOption": 3,
+      "points": 15
+    },
+    {
+      "question": "Who did Harry marry?",
+      "options": [
+        "Hermione Granger",
+        "Ginny Weasley",
+        "Luna Lovegood",
+        "Cho Chang"
+      ],
+      "correctOption": 1,
+      "points": 10
+    }
+  ]
+}

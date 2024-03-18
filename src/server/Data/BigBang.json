@@ -1,0 +1,114 @@
+{
+  "questions": [
+    {
+      "question": "What is Sheldon's favorite catchphrase?",
+      "options": ["Bazinga!", "Eureka!", "I've got it!", "That's my spot!"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Which university do Sheldon and Leonard work at?",
+      "options": ["Caltech", "MIT", "Stanford", "Harvard"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "What instrument does Amy play?",
+      "options": ["Violin", "Piano", "Harp", "Flute"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What is the name of the comic book store owner?",
+      "options": ["Stuart", "Howard", "Raj", "Leonard"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "Who is Sheldon's arch-enemy from Star Trek?",
+      "options": ["Captain Kirk", "Spock", "Wil Wheaton", "Jean-Luc Picard"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "What kind of scientist is Bernadette?",
+      "options": ["Astrophysicist", "Microbiologist", "Chemist", "Physicist"],
+      "correctOption": 1,
+      "points": 10
+    },
+    {
+      "question": "What is the name of Howard and Bernadette's daughter?",
+      "options": ["Amy", "Debbie", "Halley", "Penny"],
+      "correctOption": 2,
+      "points": 10
+    },
+    {
+      "question": "Which character is from India?",
+      "options": ["Raj", "Howard", "Leonard", "Sheldon"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "What is Penny's job at the beginning of the series?",
+      "options": ["Pharmaceutical Sales Rep", "Waitress", "Actress", "Teacher"],
+      "correctOption": 1,
+      "points": 5
+    },
+    {
+      "question": "What is the name of the agreement between Sheldon and Leonard about their living arrangements?",
+      "options": [
+        "Roommate Agreement",
+        "Friendship Contract",
+        "Living Together Guidelines",
+        "Apartment Rules"
+      ],
+      "correctOption": 0,
+      "points": 15
+    },
+    {
+      "question": "Who gets awarded the Nobel Prize?",
+      "options": [
+        "Sheldon and Amy",
+        "Leonard and Penny",
+        "Howard and Raj",
+        "Bernadette and Howard"
+      ],
+      "correctOption": 0,
+      "points": 20
+    },
+    {
+      "question": "What is Leonard's last name?",
+      "options": ["Hofstadter", "Cooper", "Wolowitz", "Koothrappali"],
+      "correctOption": 0,
+      "points": 5
+    },
+    {
+      "question": "What role-playing game do the characters frequently play?",
+      "options": [
+        "Dungeons & Dragons",
+        "World of Warcraft",
+        "Magic: The Gathering",
+        "Settlers of Catan"
+      ],
+      "correctOption": 0,
+      "points": 10
+    },
+    {
+      "question": "Which character has a PhD in neuroscience?",
+      "options": ["Amy", "Bernadette", "Sheldon", "Leonard"],
+      "correctOption": 0,
+      "points": 15
+    },
+    {
+      "question": "How does Sheldon knock on doors?",
+      "options": [
+        "Three quick knocks",
+        "Two slow knocks followed by a shout",
+        "Three knocks with the person's name repeated after each knock",
+        "One loud knock followed by silence"
+      ],
+      "correctOption": 2,
+      "points": 10
+    }
+  ]
+}
